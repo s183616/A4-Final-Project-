@@ -14,7 +14,7 @@
 8. Choose the generated ‘output’ folder and press ‘Select Folder’ 
 9. Under the ‘Bygningsmodel’ module, the building element beams from the ifc file are generated and displaying its corresponding data ‘Konstruktioner’, ‘Byggevare’, ‘Faser’ by clicking on the element (see Figure 4). Note, the amounts(‘mængde’) and units under the ‘Konstruktioner’ and ‘Byggevarer’ tabs must be manually specified (see Figure 5). 
 10. Read the LCA results under the ‘Resultater’ module and in ‘Analyse og rapport’ for graphic representations. 
-<img src=" img/output_read_LCAbyg.jpg">
+<img src="img/output_read_LCAbyg.JPG">
 
 **Further work**
 Due to the time constraints only beams from the IFC file is identified and loaded into LCAbyg thorugh this tool. 

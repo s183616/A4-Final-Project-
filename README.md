@@ -24,7 +24,8 @@ The goal of this tool is to provide a fast overview of LCA results (CO2 emission
 Figure 1
 <img src="img/output_read_LCAbyg.JPG">
 
-**Further work**
+**Further work:**
+
 Due to the time constraints only beams from the IFC file is identified and loaded into LCAbyg thorugh this tool. 
 However the same approach applies for all IFC elements why these can potentially be implementet in the tool to get a full LCA of the IFC building. 
 It is possible to expand the number of json files to incorporate information of the project and building data.  

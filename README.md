@@ -28,4 +28,7 @@ Figure 1
 
 Due to the time constraints only beams from the IFC file is identified and loaded into LCAbyg thorugh this tool. 
 However the same approach applies for all IFC elements why these can potentially be implementet in the tool to get a full LCA of the IFC building. 
-It is possible to expand the number of json files to incorporate information of the project and building data.  
+It is possible to expand the number of json files to incorporate information of the project and building data. 
+
+**Link to github:**
+https://github.com/s183616/A4-Final-Project-

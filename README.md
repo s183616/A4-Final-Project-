@@ -2,6 +2,8 @@
 # 41934 Advanced BIM, Assaignment 4 Final Project
 ## Group 16: Isabella Vad (s183616) and Amalie Hartvig Jensen (s183619)
 
+Goal: The goal of this tool is to provide an overview of LCA results (CO2 emissions) on building elements within a building project from an IFC- file.
+
 **Step-by-step guide to use the tool:**
 
 1. Export your BIM project to .ifc file format and save on your device. 

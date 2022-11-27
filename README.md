@@ -17,3 +17,4 @@
 11. Read the LCA results under the ‘Resultater’ module and in ‘Analyse og rapport’ for graphic representations. 
 <img src=" output_read_LCAbyg.jpg">
 
+**Further work**

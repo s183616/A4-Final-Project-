@@ -1,8 +1,21 @@
 # A4-Final-Project-
-# 41934 Advanced BIM, Assaignment 4 Final Project
+# 41934 Advanced BIM, Assignment 4 Final Project
 ## Group 16: Isabella Vad (s183616) and Amalie Hartvig Jensen (s183619)
 
-Goal: The goal of this tool is to provide an overview of LCA results (CO2 emissions) on building elements within a building project from an IFC- file.
+**Use Case:**
+
+**Tool:** 
+
+The solution to the use case is a tool python script, 
+The goal of this tool is to provide an overview of LCA results (CO2 emissions) on building elements within a building project from an IFC- file.Tool
+
+
+Identify, locate and extract the required information for the proposed use case from an IFC model
+
+Developed a script written in python to be incorporated in a workflow using LCAbyg. 
+
+Requirements defined in the use case: 
+
 
 **Step-by-step guide to use the tool:**
 

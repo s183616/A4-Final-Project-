@@ -1,0 +1,32 @@
+[
+    {
+        "Node": {
+            "Building": {
+                "id": "460fc48a-6e90-11ed-b356-70c94e565350",
+                "scenario_name": "Original bygningsmodel",
+                "locked": "Unlocked",
+                "description": "",
+                "building_type": "Office",
+                "heated_floor_area": 10.0,
+                "gross_area": 10.0,
+                "gross_area_above_ground": 0.0,
+                "storeys_above_ground": 0,
+                "storeys_below_ground": 0,
+                "storey_height": 0.0,
+                "initial_year": 2020,
+                "calculation_timespan": 50,
+                "calculation_mode": "SC",
+                "outside_area": 0.0,
+                "plot_area": 0.0,
+                "energy_class": "LowEnergy",
+                "name": {
+                    "Danish": ""
+                },
+                "address": "",
+                "owner": "",
+                "lca_advisor": "",
+                "building_regulation_version": ""
+            }
+        }
+    }
+]

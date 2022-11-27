@@ -1,0 +1,18 @@
+[
+    {
+        "Node": {
+            "Element": {
+                "id": "4607c06b-6e90-11ed-9aa4-70c94e565350",
+                "name": {
+                    "Danish": "Bj\u00e6lker",
+                    "English": "Beam",
+                    "German": ""
+                },
+                "source": "User",
+                "comment": "",
+                "enabled": true,
+                "excluded_scenarios": []
+            }
+        }
+    }
+]

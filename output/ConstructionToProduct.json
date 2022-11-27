@@ -1,0 +1,38 @@
+[
+    {
+        "Edge": [
+            {
+                "ConstructionToProduct": {
+                    "id": "460ed8cb-6e90-11ed-b2ff-70c94e565350",
+                    "amount": 0.44,
+                    "unit": "M3",
+                    "lifespan": 120,
+                    "demolition": false,
+                    "delayed_start": 0,
+                    "enabled": true,
+                    "excluded_scenarios": []
+                }
+            },
+            "4607c06c-6e90-11ed-a736-70c94e565350",
+            "4607c06d-6e90-11ed-8d26-70c94e565350"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ConstructionToProduct": {
+                    "id": "460f9ba8-6e90-11ed-b415-70c94e565350",
+                    "amount": 0.44,
+                    "unit": "M3",
+                    "lifespan": 120,
+                    "demolition": false,
+                    "delayed_start": 0,
+                    "enabled": true,
+                    "excluded_scenarios": []
+                }
+            },
+            "460aa7e6-6e90-11ed-9089-70c94e565350",
+            "4607c06d-6e90-11ed-8d26-70c94e565350"
+        ]
+    }
+]

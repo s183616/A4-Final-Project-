@@ -1,0 +1,44 @@
+[
+    {
+        "Node": {
+            "Product": {
+                "id": "4607c06d-6e90-11ed-8d26-70c94e565350",
+                "name": {
+                    "English": "Metal - Steel - 345 MPa",
+                    "German": "",
+                    "Danish": "Metal - Steel - 345 MPa"
+                },
+                "source": "User",
+                "comment": "",
+                "uncertainty_factor": 1.0,
+                "uncertainty_factor_dgnb": 1.3
+            }
+        }
+    },
+    {
+        "Edge": [
+            {
+                "ProductToStage": {
+                    "id": "460bb716-6e90-11ed-a693-70c94e565350",
+                    "excluded_scenarios": [],
+                    "enabled": true
+                }
+            },
+            "4607c06d-6e90-11ed-8d26-70c94e565350",
+            "66b23096-51d9-5a9a-bdb2-915ff5317f99"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ProductToStage": {
+                    "id": "460bb717-6e90-11ed-85c8-70c94e565350",
+                    "excluded_scenarios": [],
+                    "enabled": true
+                }
+            },
+            "4607c06d-6e90-11ed-8d26-70c94e565350",
+            "b8353f08-a76b-5c24-9ba8-628bb73cef92"
+        ]
+    }
+]

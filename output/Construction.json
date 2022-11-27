@@ -1,0 +1,32 @@
+[
+    {
+        "Node": {
+            "Construction": {
+                "id": "4607c06c-6e90-11ed-a736-70c94e565350",
+                "name": {
+                    "Danish": "M_W-Wide Flange:W310X60:208816",
+                    "English": "M_W-Wide Flange:W310X60:208816"
+                },
+                "unit": "M",
+                "source": "User",
+                "comment": "Test",
+                "locked": true
+            }
+        }
+    },
+    {
+        "Node": {
+            "Construction": {
+                "id": "460aa7e6-6e90-11ed-9089-70c94e565350",
+                "name": {
+                    "Danish": "M_W-Wide Flange:W410X60:208814",
+                    "English": "M_W-Wide Flange:W410X60:208814"
+                },
+                "unit": "M",
+                "source": "User",
+                "comment": "Test",
+                "locked": true
+            }
+        }
+    }
+]

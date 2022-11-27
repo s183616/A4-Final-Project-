@@ -1,0 +1,30 @@
+[
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "460af44a-6e90-11ed-82b1-70c94e565350",
+                    "amount": 8,
+                    "enabled": true,
+                    "excluded_scenarios": []
+                }
+            },
+            "4607c06b-6e90-11ed-9aa4-70c94e565350",
+            "4607c06c-6e90-11ed-a736-70c94e565350"
+        ]
+    },
+    {
+        "Edge": [
+            {
+                "ElementToConstruction": {
+                    "id": "460b6931-6e90-11ed-8f0e-70c94e565350",
+                    "amount": 8,
+                    "enabled": true,
+                    "excluded_scenarios": []
+                }
+            },
+            "4607c06b-6e90-11ed-9aa4-70c94e565350",
+            "460aa7e6-6e90-11ed-9089-70c94e565350"
+        ]
+    }
+]

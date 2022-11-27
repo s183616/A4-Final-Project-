@@ -1,0 +1,14 @@
+[
+    {
+        "Edge": [
+            {
+                "CategoryToElement": {
+                    "id": "46080e45-6e90-11ed-bcb0-70c94e565350",
+                    "excluded_scenarios": []
+                }
+            },
+            "ec9ee040-9c1d-4cae-864c-4c6a0e4b8c5b",
+            "4607c06b-6e90-11ed-9aa4-70c94e565350"
+        ]
+    }
+]

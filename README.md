@@ -3,6 +3,7 @@
 ## Group 16: Isabella Vad (s183616) and Amalie Hartvig Jensen (s183619)
 
 **Tool and use case:**
+
 The solution to the use case is a python script that extract data from an .ifc file and incorporate it in generated .json files to be imported in LCAbyg. 
 The goal of this tool is to provide a fast overview of LCA results (CO2 emissions) in LCAbyg on building elements (in this example for IFCbeams) within a building project from an IFC- file.
 
